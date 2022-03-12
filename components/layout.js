@@ -10,7 +10,7 @@ function Layout({ children }) {
     <>
       <Head>
         <meta content="width=device-width, initial-scale=1" name="viewport" />
-        <meta content="text/html; charset=UTF-8" http-equiv="Content-Type" />
+        <meta content="text/html; charset=UTF-8" />
       </Head>
       <Nav />
       <main>{children}</main>

@@ -1,0 +1,4 @@
+kod standartları için prettier kullanıyoruz bunun için terminal ekranına
+-D dev dependency olarak yükle demektir. Kod formatlayıcısı
+npm install -D prettier
+.prettierrc config dosyası buna göre kodları düzenliyor

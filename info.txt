@@ -2,3 +2,11 @@ kod standartları için prettier kullanıyoruz bunun için terminal ekranına
 -D dev dependency olarak yükle demektir. Kod formatlayıcısı
 npm install -D prettier
 .prettierrc config dosyası buna göre kodları düzenliyor
+https://github.com/prettier/prettier-vscode
+
+zeit.co altında deploy edild
+github'dan dosya import edildi
+
+video dersleri buradan bakabilirsiniz
+https://www.youtube.com/watch?v=GHJv0JfP4MA&list=PLadt0EaV4m3BvU1uOVHLyxYL2qMQOkQ22&index=6
+6.derste kalındı

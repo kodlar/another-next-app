@@ -10,3 +10,10 @@ github'dan dosya import edildi
 video dersleri buradan bakabilirsiniz
 https://www.youtube.com/watch?v=GHJv0JfP4MA&list=PLadt0EaV4m3BvU1uOVHLyxYL2qMQOkQ22&index=6
 6.derste kalındı
+
+yarn ve npm farkları
+https://shift.infinite.red/npm-vs-yarn-cheat-sheet-8755b092e5cc
+nextjs dökümanlar
+https://nextjs.org/docs/getting-started
+
+npm i slug ile slug olayına girdik
